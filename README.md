@@ -1,5 +1,8 @@
 # Blackburn
 
+我给它加上了自己的多说账号，可以在文章详情页使用多说评论。
+以下是原作者的话：
+---------
 Blackburn is a clear and responsive theme for [Hugo](//gohugo.io).
 
 ## Overview
@@ -79,9 +82,9 @@ paginate = 10
   subtitle = "A Hugo Theme"
   brand = "Blackburn"
   googleAnalytics = "Your Google Analytics tracking ID"
-  disqus = "Your Disqus shortname"
+  duoshuoShortname = "Your Duoshuo shortname"
   # CSS name for highlight.js
-  highlightjs = "androidstudio"
+  highlightjs = "monokai"
   dateFormat = "02 Jan 2006, 15:04"
   custom_css = ["css/my.css"]
   custom_js = ["js/my.js"]
